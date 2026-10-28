@@ -1,0 +1,4 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Cucumber Selenium Suite" verbose="1">
+  <test name="Cucumber scenarios"><classes><class name="com.example.runners.TestRunner"/></classes></test>
+</suite>

@@ -1,0 +1,6 @@
+target/
+.idea/
+.vscode/*
+!.vscode/extensions.json
+screenshots/
+*.log
